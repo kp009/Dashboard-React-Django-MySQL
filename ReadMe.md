@@ -103,8 +103,12 @@ npm start
 
 ## 📊 Usage
 1️⃣ Upload an Excel file with company details  
-2️⃣ View stored company data via API or frontend  
+2️⃣ View stored company data via API or frontend 
+<img src="Images/Company_dashboard1.png" width="600" height="auto" />
+
 3️⃣ Filter and generate charts for revenue, employees, etc.  
+<img src="Images/Company_dashboard2.png" width="600" height="auto" />
+
 4️⃣ Update or delete company records as needed  
 
 ---
